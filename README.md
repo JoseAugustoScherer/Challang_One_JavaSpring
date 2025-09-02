@@ -1,2 +1,2 @@
-# Challang3_One_JavaSpring
+# Challange_One_JavaSpring
 Desafio do curso Dev Superior, sobre relacionamento entre classes.
